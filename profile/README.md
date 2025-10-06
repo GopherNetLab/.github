@@ -18,15 +18,5 @@ Our mission is to transform today’s best-effort Internet into a **highly relia
 
 ---
 
-## Our Approach
-We combine:
-- **Formal modeling & analysis**
-- **Rigorous experimentation & implementation**
-- **Real-world evaluation**
-
-to tackle some of the most pressing challenges in networking research.
-
----
-
 *University of Minnesota*  
 *Faculty Lead: Prof. Zhi-Li Zhang*  
