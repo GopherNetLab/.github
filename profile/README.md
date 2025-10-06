@@ -1,4 +1,4 @@
-# Networking Research Group @ University of Minnesota
+# University of Minnesota Networking Research Lab 
 
 Led by **Professor Zhi-Li Zhang**, our lab focuses on advancing the frontiers of **computer and communication networks**.  
 Our mission is to transform today’s best-effort Internet into a **highly reliable, available, and secure infrastructure** capable of supporting diverse communication needs and emerging applications.  
